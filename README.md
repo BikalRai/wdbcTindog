@@ -1,3 +1,5 @@
+This is done from Angela Yu's course from Udemy, this is cloning of her assignment of this Tindog Project
+
 # TinDog Project
 
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
